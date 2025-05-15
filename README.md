@@ -32,8 +32,8 @@ Se você está começando ou deseja evoluir com automações inteligentes, **aco
 
 | Projeto                    | Descrição                                            | Status       |
 |----------------------------|------------------------------------------------------|--------------|
-| `auto-whats`               | Bot de atendimento automatizado com IA no WhatsApp   | 🔄 Em dev    |
-| `fluxo-rag`                | Upload + Vetor +  RAG com N8N e PGVector + MCP       | 🔄 Em dev    |
+| `auto-whats`               | Bot de atendimento automatizado com IA no WhatsApp   | ✅Concluido  |
+| `fluxo-rag`                | Upload + Vetor +  RAG com N8N e PGVector + MCP       | ✅Concluido  |
 | `painel-helpmeta`          | Sistema interno para franqueados da Help Meta        | 🧪 Protótipo |
 
 ---
